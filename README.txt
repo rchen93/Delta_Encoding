@@ -1,4 +1,4 @@
-DISCLAIMER: My solution to a school assignment.
+DISCLAIMER: My solution to a school assignment. Best viewed in Sublime Text
 
 This program will generate a delta file that shows the differences between two similar files and will apply the delta file to update the earlier version into the newer version.
 Some sample test files will be provided.
